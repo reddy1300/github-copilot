@@ -7,6 +7,7 @@
 3. **Precision:** Targeted information or desired output.
 4. **Adaptability:** Flexibility with variuos AI models.
 
+1. ### Persona Pattern
 One of the most common pattern and a very effective pattern is the persona pattern.
 - Its basically you want AI to pretend to be someone(A person)
 
